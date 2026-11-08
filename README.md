@@ -1,13 +1,13 @@
 # Portprin
 
-Portprin este un desktop prietenos, în browser: confortabil, simplu și rapid. Deschide `index.html` într-un browser modern pentru a-l încerca — nu sunt necesare compilare sau dependențe.
+Portprin is a friendly, browser-based desktop: comfortable, simple, and fast. Open `index.html` in a modern browser to try it—no build step or dependencies required.
 
-## Aplicații incluse
+## Included apps
 
-- Ecran de pornire de cinci secunde: **„Launching Portprin Operation System…”**.
-- Notițe, Fișiere, Browser, Calculator, Sarcini, Calendar, Focus, Schițe și Setări.
-- Notițele și sarcinile se salvează în browser; aplicația Schițe poate exporta desenul în PNG.
-- Fundaluri personalizabile: Albastru de noapte, Auroră și Apus.
-- Interfață responsive care se adaptează la ecran, cu ferestre redimensionate pentru a încăpea în spațiul disponibil.
+- A five-second startup screen: **“Launching Portprin Operation System…”**.
+- Notes, Files, Browser, Calculator, Tasks, Calendar, Focus, Sketches, and Settings.
+- Notes and tasks are saved in your browser; Sketches can export drawings as PNG files.
+- Customizable wallpapers: Midnight Blue, Aurora, and Sunset.
+- A responsive interface that adapts to your screen, with app windows sized to fit the available space.
 
-Interfața folosește pictograme vectoriale, fără emoji. Notițele, sarcinile și preferințele sunt stocate local în browser. Portprin este o experiență desktop web, nu un înlocuitor pentru sistemul de operare al computerului.
+The interface uses vector icons instead of emoji. Notes, tasks, and preferences are stored locally in your browser. Portprin is a web desktop experience, not a replacement for your computer's operating system.
